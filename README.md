@@ -18,6 +18,9 @@ A sleek, modern web app that lets users search for high-quality images using the
 
 💡 Smart error handling and loading experience
 
+![Image Search UI](image-search-ui.png)
+
+
 🛠 Tech Stack
 
 HTML5
